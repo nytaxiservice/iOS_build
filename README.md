@@ -1,2 +1,3 @@
-# iOS_build
-Current refractor build to bring dependency support
+# NY Taxi Service iOS applications
+
+Refactor dependancies for newer XCode signing and release support
